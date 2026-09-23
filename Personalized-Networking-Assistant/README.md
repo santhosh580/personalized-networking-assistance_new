@@ -48,7 +48,7 @@ Built using **FastAPI** for a modular, high-performance backend and **Streamlit*
 * Git
 
 ### Step 1: Clone and Navigate
-```bash
+```bash cd "C:\Users\Santhosh Kumar\Desktop\INTERSHIP_PROJECT\Personalized-Networking-Assistant"
 
 ```
 
